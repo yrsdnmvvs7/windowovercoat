@@ -1,7 +1,7 @@
 # Attribution
 
-Window Overcoat is derived from JankyBorders by Felix Kratz:
-https://github.com/FelixKratz/JankyBorders
+Window Overcoat is derived from window-sweaters by saragordic:
+https://github.com/saragordic/window-sweaters
 
 The existing GNU General Public License, version 3, is preserved in LICENSE.
 Window Overcoat adds the procedural knit renderer, curated app colourways,
