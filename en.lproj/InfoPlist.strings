@@ -1,0 +1,3 @@
+/* App name shown by Finder, login items and System Settings > Privacy & Security */
+"CFBundleDisplayName" = "Window Overcoat";
+"CFBundleName" = "Window Overcoat";

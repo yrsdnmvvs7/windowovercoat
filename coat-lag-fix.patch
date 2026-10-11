@@ -1,0 +1,30 @@
+diff --git a/Makefile b/Makefile
+index 1cc8d69..a751220 100644
+--- a/Makefile
++++ b/Makefile
+@@ -39,7 +39,7 @@ bin/render-test: tests/render.c src/knit.c src/overcoat.c src/chart.c src/apps.c
+ test: bin/render-test
+ 	clang -std=c99 -O1 -g -fsanitize=$(SANITIZERS) -Isrc tests/overcoat.c src/overcoat.c src/knit.c src/chart.c src/apps.c -framework ApplicationServices -o bin/overcoat-test
+ 	bin/overcoat-test
+-	clang -std=c99 -O1 -g -fsanitize=$(SANITIZERS) -Isrc tests/tracking.c src/animation.c src/overcoat.c -o bin/tracking-test $(LIBS)
++	clang -std=c99 -O1 -g -fsanitize=$(SANITIZERS) -Isrc tests/tracking.c src/animation.c src/overcoat.c src/hashtable.c -o bin/tracking-test $(LIBS)
+ 	bin/tracking-test
+ 	clang -std=c99 -O1 -g -fsanitize=$(SANITIZERS) -Isrc tests/events.c src/hashtable.c -o bin/events-test $(LIBS)
+ 	bin/events-test
+diff --git a/src/border.c b/src/border.c
+index 59f8a86..c630bbc 100644
+--- a/src/border.c
++++ b/src/border.c
+@@ -119,7 +119,11 @@ static bool border_calculate_bounds(struct border* border, CGRect* frame, struct
+ // and costs ~6ms, so strips would only spend memory.
+ // ---------------------------------------------------------------------------
+ 
+-extern struct table g_windows;   // main.c owns it; results resolve borders by id
++// main.c owns the window table; results resolve borders by id. The weak
++// fallback mirrors the weak yarn hooks above: test targets that compile this
++// file without main.c still link, and an empty table resolves no borders.
++__attribute__((weak))
++struct table g_windows;
+ 
+ struct coat_result {
+   uint32_t target_wid;

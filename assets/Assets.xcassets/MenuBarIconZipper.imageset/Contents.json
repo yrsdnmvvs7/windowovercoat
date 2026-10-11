@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "MenuBarIcon-1024-Transparent.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

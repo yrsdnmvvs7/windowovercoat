@@ -1,0 +1,114 @@
+/* 菜单栏状态文案 */
+"Sweaters are paused" = "窗口外套已暂停";
+"Sweaters are off for all apps" = "所有应用的窗口外套已关闭";
+"Sweaters are on" = "窗口外套已开启";
+"Window Overcoat — " = "窗口外套 — ";
+"Window Overcoat" = "窗口外套";
+"Settings" = "设置";
+"Version %@" = "版本 %@";
+"About Window Overcoat" = "关于窗口外套";
+
+/* 应用菜单 */
+"No Available Apps" = "没有可用的应用";
+"Turn On for All Apps" = "为所有应用开启外套";
+"Turn Off for All Apps" = "为所有应用关闭外套";
+
+/* 主菜单 */
+"Show Sweater Borders" = "显示窗口外套";
+"Apps" = "应用";
+"Pattern" = "图案";
+"By App" = "按应用";
+"Each app uses its own pattern and yarn colours." = "每个应用使用自己的图案和毛线配色。";
+"Stockinette" = "平针";
+"Rib" = "罗纹";
+"Plain knitting in each app's yarn colour." = "以每个应用的毛线颜色进行平针编织。";
+"Zigzag" = "锯齿纹";
+"Picnic Checks" = "野餐格纹";
+"Ribbon Stripes" = "缎带条纹";
+"Little Bows" = "小蝴蝶结";
+"Tiny Stars" = "小星星";
+"Candy Stripes" = "糖果条纹";
+"Uses colours from app icons, with cream or deeper zigzags for contrast." = "使用应用图标的配色，以奶油色或更深色的锯齿纹作为对比。";
+"Pattern preview. Each app keeps its own main yarn colour." = "图案预览。每个应用保留自己的主毛线颜色。";
+"Custom Patterns" = "自定义图案";
+"Each app keeps its main yarn colour. Uses at least %d stitch rows to show the full pattern." = "每个应用保留自己的主毛线颜色。至少使用 %d 行针脚以显示完整图案。";
+"Current: " = "当前：";
+"Your existing pattern is preserved. Choose another pattern to change it." = "你现有的图案已被保留。选择其他图案可更改它。";
+
+/* 边框宽度 */
+"Border Width" = "边框宽度";
+"Slim" = "纤细";
+"Narrow" = "窄";
+"Medium" = "中等";
+"Regular" = "常规";
+"Wide" = "宽";
+"Extra Wide" = "超宽";
+"Custom" = "自定义";
+"%@ · %g pt" = "%@ · %g pt";
+
+/* 针脚大小 */
+"Stitch Size" = "针脚大小";
+"Chunky" = "粗";
+"Fine" = "细密";
+"Very Fine" = "极细";
+"%@ · %g rows" = "%@ · %g 行";
+
+/* 退出 */
+"Quit Window Overcoat" = "退出 窗口外套";
+
+"Show Window Overcoats" = "显示窗口外套";
+"Settings…" = "设置…";
+"Knitted Sweater" = "针织毛衣";
+"Clear Glass" = "清透玻璃";
+"Minimal Line" = "极简细线";
+"Soft Gradient" = "柔雾渐变";
+"Brushed Metal" = "磨砂金属";
+"Soft Leather" = "温润皮革";
+"Crystal" = "水晶白";
+"Glacier" = "冰川蓝";
+"Smoke" = "烟灰色";
+"Graphite" = "石墨灰";
+"Mist Blue" = "雾蓝色";
+"Pearl" = "珍珠白";
+"Sky" = "晴空";
+"Dusk" = "暮霞";
+"Sea Mist" = "青岚";
+"Silver" = "银白";
+"Titanium" = "钛灰";
+"Champagne" = "香槟";
+"Mocha" = "摩卡";
+"Chestnut" = "栗棕";
+"Ink" = "墨黑";
+"Coat Styles" = "外套样式";
+"App Scope" = "应用范围";
+"General" = "通用设置";
+"Pause Overcoats" = "暂停外套";
+"Overcoats" = "外套";
+"Resume Overcoats" = "恢复外套";
+"Changes are saved automatically." = "选择即时生效，设置自动保存。";
+"Knitted patterns" = "毛衣图案";
+"Try it on" = "试穿预览";
+"Options adapt to the selected pattern." = "可用针脚大小随图案自动适配。";
+"Not running" = "未运行";
+"The all-apps choice also applies to apps opened later." = "全部开启或关闭也适用于之后打开的应用。";
+"Open at Login" = "登录时启动";
+"Start quietly in the menu bar." = "登录后在菜单栏后台运行，不弹出设置窗口。";
+"Accessibility Permission" = "辅助功能权限";
+"Granted" = "已授权";
+"Needed" = "未授权";
+"Permission is needed to follow window focus." = "需要授权以跟随窗口焦点。";
+"Open System Settings" = "打开系统设置";
+"Closing this window keeps overcoats running." = "关闭设置窗口后，窗口外套仍会继续运行。";
+"Open Color Configuration" = "打开配色配置";
+"Open Pattern Folder" = "打开图案文件夹";
+"Overcoats are paused" = "窗口外套已暂停";
+"No apps are enabled" = "尚未为任何应用开启外套";
+"Saved automatically" = "设置已自动保存";
+"Accessibility permission required" = "需要辅助功能权限";
+"Could not update login settings" = "无法更新登录启动设置";
+"Please try again in System Settings." = "请在系统设置中重试。";
+"Soft highlights, a clear glass finish." = "通透高光与轻盈边缘，让外套融入桌面。";
+"A quiet outline that keeps content in focus." = "干净的细边，保持内容清晰。";
+"Gentle colors, without animation or flashing." = "低饱和色彩自然过渡，静态呈现，不闪烁。";
+"Subtle brushing and softly beveled edges." = "细腻拉丝与柔和倒角，呈现硬件质感。";
+"Fine grain and a stitched leather edge." = "细微皮纹与压边缝线，像一本安静的手账。";

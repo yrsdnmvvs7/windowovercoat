@@ -1,0 +1,113 @@
+/* Menu bar status text */
+"Sweaters are paused" = "Overcoats are paused";
+"Sweaters are off for all apps" = "Overcoats are off for all apps";
+"Sweaters are on" = "Overcoats are on";
+"Window Overcoat — " = "Window Overcoat — ";
+"Window Overcoat" = "Window Overcoat";
+"Settings" = "Settings";
+"Version %@" = "Version %@";
+"About Window Overcoat" = "About Window Overcoat";
+
+/* Apps menu */
+"No Available Apps" = "No Available Apps";
+"Turn On for All Apps" = "Turn On for All Apps";
+"Turn Off for All Apps" = "Turn Off for All Apps";
+
+/* Main menu */
+"Show Sweater Borders" = "Show Sweater Borders";
+"Apps" = "Apps";
+"Pattern" = "Pattern";
+"By App" = "By App";
+"Each app uses its own pattern and yarn colours." = "Each app uses its own pattern and yarn colours.";
+"Stockinette" = "Stockinette";
+"Rib" = "Rib";
+"Plain knitting in each app's yarn colour." = "Plain knitting in each app's yarn colour.";
+"Zigzag" = "Zigzag";
+"Picnic Checks" = "Picnic Checks";
+"Ribbon Stripes" = "Ribbon Stripes";
+"Little Bows" = "Little Bows";
+"Tiny Stars" = "Tiny Stars";
+"Candy Stripes" = "Candy Stripes";
+"Uses colours from app icons, with cream or deeper zigzags for contrast." = "Uses colours from app icons, with cream or deeper zigzags for contrast.";
+"Pattern preview. Each app keeps its own main yarn colour." = "Pattern preview. Each app keeps its own main yarn colour.";
+"Custom Patterns" = "Custom Patterns";
+"Each app keeps its main yarn colour. Uses at least %d stitch rows to show the full pattern." = "Each app keeps its main yarn colour. Uses at least %d stitch rows to show the full pattern.";
+"Current: " = "Current: ";
+"Your existing pattern is preserved. Choose another pattern to change it." = "Your existing pattern is preserved. Choose another pattern to change it.";
+
+/* Border width */
+"Border Width" = "Border Width";
+"Slim" = "Slim";
+"Narrow" = "Narrow";
+"Medium" = "Medium";
+"Regular" = "Regular";
+"Wide" = "Wide";
+"Extra Wide" = "Extra Wide";
+"Custom" = "Custom";
+"%@ · %g pt" = "%@ · %g pt";
+
+/* Stitch size */
+"Stitch Size" = "Stitch Size";
+"Chunky" = "Chunky";
+"Fine" = "Fine";
+"Very Fine" = "Very Fine";
+"%@ · %g rows" = "%@ · %g rows";
+
+/* Quit */
+"Quit Window Overcoat" = "Quit Window Overcoat";
+
+"Show Window Overcoats" = "Show Window Overcoats";
+"Settings…" = "Settings…";
+"Knitted Sweater" = "Knitted Sweater";
+"Clear Glass" = "Clear Glass";
+"Minimal Line" = "Minimal Line";
+"Soft Gradient" = "Soft Gradient";
+"Brushed Metal" = "Brushed Metal";
+"Soft Leather" = "Soft Leather";
+"Crystal" = "Crystal";
+"Glacier" = "Glacier";
+"Smoke" = "Smoke";
+"Graphite" = "Graphite";
+"Mist Blue" = "Mist Blue";
+"Pearl" = "Pearl";
+"Sky" = "Sky";
+"Dusk" = "Dusk";
+"Sea Mist" = "Sea Mist";
+"Silver" = "Silver";
+"Titanium" = "Titanium";
+"Champagne" = "Champagne";
+"Mocha" = "Mocha";
+"Chestnut" = "Chestnut";
+"Ink" = "Ink";
+"Coat Styles" = "Coat Styles";
+"App Scope" = "App Scope";
+"General" = "General";
+"Pause Overcoats" = "Pause Overcoats";
+"Overcoats" = "Overcoats";
+"Resume Overcoats" = "Resume Overcoats";
+"Changes are saved automatically." = "Changes are saved automatically.";
+"Knitted patterns" = "Knitted patterns";
+"Try it on" = "Try it on";
+"Options adapt to the selected pattern." = "Options adapt to the selected pattern.";
+"Not running" = "Not running";
+"The all-apps choice also applies to apps opened later." = "The all-apps choice also applies to apps opened later.";
+"Open at Login" = "Open at Login";
+"Start quietly in the menu bar." = "Start quietly in the menu bar.";
+"Accessibility Permission" = "Accessibility Permission";
+"Granted" = "Granted";
+"Permission is needed to follow window focus." = "Permission is needed to follow window focus.";
+"Open System Settings" = "Open System Settings";
+"Closing this window keeps overcoats running." = "Closing this window keeps overcoats running.";
+"Open Color Configuration" = "Open Color Configuration";
+"Open Pattern Folder" = "Open Pattern Folder";
+"Overcoats are paused" = "Overcoats are paused";
+"No apps are enabled" = "No apps are enabled";
+"Saved automatically" = "Saved automatically";
+"Accessibility permission required" = "Accessibility permission required";
+"Could not update login settings" = "Could not update login settings";
+"Please try again in System Settings." = "Please try again in System Settings.";
+"Soft highlights, a clear glass finish." = "Soft highlights, a clear glass finish.";
+"A quiet outline that keeps content in focus." = "A quiet outline that keeps content in focus.";
+"Gentle colors, without animation or flashing." = "Gentle colors, without animation or flashing.";
+"Subtle brushing and softly beveled edges." = "Subtle brushing and softly beveled edges.";
+"Fine grain and a stitched leather edge." = "Fine grain and a stitched leather edge.";

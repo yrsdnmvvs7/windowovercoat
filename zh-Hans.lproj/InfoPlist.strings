@@ -1,0 +1,3 @@
+/* Finder、登录项与"系统设置 → 隐私与安全性"列表里显示的应用名 */
+"CFBundleDisplayName" = "窗口外套";
+"CFBundleName" = "窗口外套";
