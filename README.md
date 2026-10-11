@@ -8,4 +8,4 @@
 
 ## 版权与许可
 
-窗口外套基于 [JankyBorders](https://github.com/FelixKratz/JankyBorders)（作者 Felix Kratz）修改而来，遵循 **GPL-3.0** 许可发布。归属声明见 [NOTICE.md](NOTICE.md)。
+窗口外套基于 https://github.com/saragordic/window-sweaters 修改而来，遵循 **GPL-3.0** 许可发布。归属声明见 [NOTICE.md](NOTICE.md)。
